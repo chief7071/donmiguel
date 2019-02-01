@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>HTML: &lt;meta http-equiv="X-UA-Compatible" content="ie=edge"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="Кращі пропозиції на сири в Україні"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="Кращі пропозиції на сири в Україні"&gt;</remark></note><note><remark>Global site tag (gtag.js) - Google Analytics</remark></note>		window.dataLayer = window.dataLayer || [];
+
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-122948040-1');
+	<link linkend="">Дон Мігель</link> </para>
+  <sect1 id="navbarSupportedContent">
+    <orderedlist>
+      <listitem>
+        <para><link linkend="">Товари(current)</link> </para>
+      </listitem>
+      <listitem>
+        <para><link linkend="">Контакти(current)</link> </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+  <sect1 id="carousel">
+    <para><inlinegraphic fileref="#img/chease1.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#img/chease2.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><inlinegraphic fileref="#img/chease3.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para>
+      <link linkend="">Previous </link>
+      <link linkend="">Next </link>
+    </para>
+  </sect1>
+  <para><anchor id="products"/>Сир з доставкою по Україні</para>
+  <para><inlinegraphic fileref="#img/frico.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <sect1>
+    <title/>
+    <sect2>
+      <title>Фріко Шеврет</title>
+      <para>Замовлення за телефоном +380980370707</para>
+      <para><inlinegraphic fileref="#img/djugas.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Джугас</title>
+      <para>Замовлення за телефоном +380980370707</para>
+      <para><inlinegraphic fileref="#img/gorgonzola.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Горгонзола</title>
+      <para>Замовлення за телефоном +380980370707</para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><anchor id="contacts"/>Сайт розробляється</title>
+    <para/>
+  </sect1>
+</article>
